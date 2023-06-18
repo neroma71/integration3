@@ -1,0 +1,88 @@
+header{
+    background:url(../img/01PIC.jpg)top right no-repeat;
+    background-size:cover;
+    height:500px;
+}
+.heightmenu{
+    max-width:1140px;
+}
+.sub{
+    background:white;
+}
+.firstnav{
+    width:100%;
+    background:rgb(255, 152, 141);
+}
+.secondnav{
+    width:100%;
+    background:white;
+}
+.navbar{
+    font-size:0.7em;
+}
+ img{
+    height:40px;
+    width:40px;
+}
+h1, h2{
+    color:rgb(255, 152, 141);
+    font-size:3em;
+}
+.text p{
+    font-size:0.8em;
+}
+.btn{
+    width:130px;
+    border-radius:25px;
+    background:rgb(166, 217, 91);
+    font-size:0.8em;
+    color:white;
+}
+.btn:hover{
+    background:rgb(128, 170, 39);
+    color:white;
+}
+.lightsalmon{
+    background:#feefea;
+}
+.salmon{
+    background:rgb(255, 152, 141);
+}
+.svg{
+    height:70px;
+    width:70px;
+    margin-top:20px;
+}
+.col-7 p{
+    width:100%;
+    color:rgb(255, 152, 141);
+}
+.weight{
+    font-weight:bold;
+}
+.philo{
+    background:url(../img/philo.jpg)center no-repeat;
+    background-size:cover;
+}
+.philo p{
+    font-size:0.8em;
+}
+@media (max-width:992px){
+    h1, h2{
+        font-size:2em;
+    }
+}
+@media (max-width:576px){
+    h1, h2{
+        font-size:1.5em;
+    }
+}
+
+
+
+
+
+
+
+
+
